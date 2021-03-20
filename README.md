@@ -12,7 +12,7 @@ I WANT to add important and social events to a daily planner
 SO THAT I can manage my time and fun effectively
 ```
 
-## Acceptance Criteria
+## Criteria
 
 ```
 GIVEN I am using a daily planner to create a schedule
