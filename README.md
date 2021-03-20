@@ -1,16 +1,15 @@
-<!--  -->
-# 05 Third-Party APIs: Work Day Scheduler
+<!-- Work Day Scheduler -->
 
-Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+# Work Day Scheduler
 
-The starter code uses the [Moment.js](https://momentjs.com/) library to work with date and time, but feel free to use a different JavaScript solution to handle this functionality since Moment.js is considered a "legacy" project. Learn more about these other solutions in the [Moment.js project status page.](https://momentjs.com/docs/#/-project-status/)
+This application is meant to serve as a simple day planner for the everyday user. When the user opens the application they see the current time and avalible time blocks for that time of day. the user can input information or appointments, then save the time slot into the local storage of their browser. If the user reloads the page, they should still see their saved information in the correct time-slot. 
 
 ## User Story
 
 ```
-AS AN employee with a busy schedule
-I WANT to add important events to a daily planner
-SO THAT I can manage my time effectively
+AS AN everyday human with a busy schedule
+I WANT to add important and social events to a daily planner
+SO THAT I can manage my time and fun effectively
 ```
 
 ## Acceptance Criteria
@@ -34,6 +33,12 @@ THEN the saved events persist
 The following animation demonstrates the application functionality:
 
 ![day planner demo](./Assets/05-third-party-apis-homework-demo.gif)
+
+## Instructions
+
+Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+
+The starter code uses the [Moment.js](https://momentjs.com/) library to work with date and time, but feel free to use a different JavaScript solution to handle this functionality since Moment.js is considered a "legacy" project. Learn more about these other solutions in the [Moment.js project status page.](https://momentjs.com/docs/#/-project-status/)
 
 ## Review
 
