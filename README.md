@@ -2,7 +2,7 @@
 
 # Work Day Scheduler
 
-This application is meant to serve as a simple day planner for the everyday user. When the user opens the application they see the current time and avalible time blocks for that time of day (hourly). the user can input information or appointments, then save the time slot into the local storage of their browser. If the user reloads the page, they should still see their saved information in the correct time-slot. 
+This application is meant to serve as a simple day planner for the everyday user. When the user opens the application they see the current time and available time blocks for that time of day (hourly). the user can input information or appointments, then save the time slot into the local storage of their browser. If the user reloads the page, they should still see their saved information in the correct time-slot. 
 
 ## User Story
 
